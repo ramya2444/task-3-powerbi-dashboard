@@ -1,0 +1,101 @@
+TransactionID,CardNumber,DateTime,MerchantName,Category,Amount,Currency,Status,Location
+TXN000001,4111****1234,2025-06-01 10:23:45,Starbucks,Coffee Shops,4.50,USD,Approved,New York, USA
+TXN000002,5500****5678,2025-06-01 11:05:12,Walmart,Retail,35.20,USD,Approved,Dallas, USA
+TXN000003,4111****1234,2025-06-01 11:45:30,Amazon,Online Retail,120.99,USD,Approved,Seattle, USA
+TXN000004,4111****9876,2025-06-01 12:12:22,Uber,Transportation,15.75,USD,Approved,San Francisco, USA
+TXN000005,5500****5678,2025-06-01 12:35:05,McDonald's,Fast Food,8.25,USD,Declined,Dallas, USA
+TXN000006,4111****1234,2025-06-01 13:00:11,Apple Store,Electronics,299.99,USD,Approved,New York, USA
+TXN000007,5500****5678,2025-06-01 13:45:27,Best Buy,Electronics,85.50,USD,Approved,Dallas, USA
+TXN000008,4111****9876,2025-06-01 14:10:33,Whole Foods,Grocery,45.60,USD,Approved,San Francisco, USA
+TXN000009,4111****1234,2025-06-01 14:45:20,Netflix,Entertainment,15.99,USD,Approved,New York, USA
+TXN000010,5500****5678,2025-06-01 15:05:55,Target,Retail,60.00,USD,Approved,Dallas, USA
+TXN000011,4111****1234,2025-06-01 15:45:02,Shell,Gas Station,40.00,USD,Approved,New York, USA
+TXN000012,5500****5678,2025-06-01 16:10:12,Subway,Fast Food,7.80,USD,Approved,Dallas, USA
+TXN000013,4111****9876,2025-06-01 16:45:45,Spotify,Entertainment,9.99,USD,Approved,San Francisco, USA
+TXN000014,4111****1234,2025-06-01 17:05:30,Starbucks,Coffee Shops,5.10,USD,Approved,New York, USA
+TXN000015,5500****5678,2025-06-01 17:40:55,Walmart,Retail,22.75,USD,Approved,Dallas, USA
+TXN000016,4111****9876,2025-06-01 18:10:10,Amazon,Online Retail,75.49,USD,Approved,San Francisco, USA
+TXN000017,4111****1234,2025-06-01 18:45:30,Uber,Transportation,12.60,USD,Approved,New York, USA
+TXN000018,5500****5678,2025-06-01 19:10:22,McDonald's,Fast Food,6.50,USD,Declined,Dallas, USA
+TXN000019,4111****9876,2025-06-01 19:45:30,Apple Store,Electronics,349.99,USD,Approved,San Francisco, USA
+TXN000020,4111****1234,2025-06-01 20:05:15,Best Buy,Electronics,120.00,USD,Approved,New York, USA
+TXN000021,5500****5678,2025-06-01 20:40:00,Whole Foods,Grocery,30.25,USD,Approved,Dallas, USA
+TXN000022,4111****9876,2025-06-01 21:10:35,Netflix,Entertainment,15.99,USD,Approved,San Francisco, USA
+TXN000023,4111****1234,2025-06-01 21:45:25,Target,Retail,55.50,USD,Approved,New York, USA
+TXN000024,5500****5678,2025-06-01 22:10:10,Shell,Gas Station,38.20,USD,Approved,Dallas, USA
+TXN000025,4111****9876,2025-06-01 22:45:50,Subway,Fast Food,8.00,USD,Approved,San Francisco, USA
+TXN000026,4111****1234,2025-06-02 09:15:20,Spotify,Entertainment,9.99,USD,Approved,New York, USA
+TXN000027,5500****5678,2025-06-02 09:40:00,Starbucks,Coffee Shops,4.75,USD,Approved,Dallas, USA
+TXN000028,4111****9876,2025-06-02 10:05:12,Walmart,Retail,25.00,USD,Approved,San Francisco, USA
+TXN000029,4111****1234,2025-06-02 10:45:25,Amazon,Online Retail,150.99,USD,Approved,New York, USA
+TXN000030,5500****5678,2025-06-02 11:15:35,Uber,Transportation,14.50,USD,Approved,Dallas, USA
+TXN000031,4111****9876,2025-06-02 11:45:00,McDonald's,Fast Food,7.50,USD,Declined,San Francisco, USA
+TXN000032,4111****1234,2025-06-02 12:15:12,Apple Store,Electronics,249.99,USD,Approved,New York, USA
+TXN000033,5500****5678,2025-06-02 12:45:40,Best Buy,Electronics,89.50,USD,Approved,Dallas, USA
+TXN000034,4111****9876,2025-06-02 13:15:25,Whole Foods,Grocery,40.75,USD,Approved,San Francisco, USA
+TXN000035,4111****1234,2025-06-02 13:45:55,Netflix,Entertainment,15.99,USD,Approved,New York, USA
+TXN000036,5500****5678,2025-06-02 14:15:35,Target,Retail,65.00,USD,Approved,Dallas, USA
+TXN000037,4111****9876,2025-06-02 14:45:22,Shell,Gas Station,42.10,USD,Approved,San Francisco, USA
+TXN000038,4111****1234,2025-06-02 15:15:15,Subway,Fast Food,7.90,USD,Approved,New York, USA
+TXN000039,5500****5678,2025-06-02 15:45:35,Spotify,Entertainment,9.99,USD,Approved,Dallas, USA
+TXN000040,4111****9876,2025-06-02 16:15:20,Starbucks,Coffee Shops,5.25,USD,Approved,San Francisco, USA
+TXN000041,4111****1234,2025-06-02 16:45:10,Walmart,Retail,30.00,USD,Approved,New York, USA
+TXN000042,5500****5678,2025-06-02 17:15:55,Amazon,Online Retail,99.99,USD,Approved,Dallas, USA
+TXN000043,4111****9876,2025-06-02 17:45:25,Uber,Transportation,16.50,USD,Approved,San Francisco, USA
+TXN000044,4111****1234,2025-06-02 18:15:35,McDonald's,Fast Food,8.10,USD,Declined,New York, USA
+TXN000045,5500****5678,2025-06-02 18:45:10,Apple Store,Electronics,299.99,USD,Approved,Dallas, USA
+TXN000046,4111****9876,2025-06-02 19:15:22,Best Buy,Electronics,130.00,USD,Approved,San Francisco, USA
+TXN000047,4111****1234,2025-06-02 19:45:05,Whole Foods,Grocery,48.20,USD,Approved,New York, USA
+TXN000048,5500****5678,2025-06-02 20:15:40,Netflix,Entertainment,15.99,USD,Approved,Dallas, USA
+TXN000049,4111****9876,2025-06-02 20:45:12,Target,Retail,58.75,USD,Approved,San Francisco, USA
+TXN000050,4111****1234,2025-06-02 21:15:33,Shell,Gas Station,39.00,USD,Approved,New York, USA
+TXN000051,5500****5678,2025-06-02 21:45:22,Subway,Fast Food,7.80,USD,Approved,Dallas, USA
+TXN000052,4111****9876,2025-06-02 22:15:50,Spotify,Entertainment,9.99,USD,Approved,San Francisco, USA
+TXN000053,4111****1234,2025-06-03 09:05:15,Starbucks,Coffee Shops,4.60,USD,Approved,New York, USA
+TXN000054,5500****5678,2025-06-03 09:35:40,Walmart,Retail,27.50,USD,Approved,Dallas, USA
+TXN000055,4111****9876,2025-06-03 10:05:20,Amazon,Online Retail,110.00,USD,Approved,San Francisco, USA
+TXN000056,4111****1234,2025-06-03 10:35:55,Uber,Transportation,13.75,USD,Approved,New York, USA
+TXN000057,5500****5678,2025-06-03 11:05:10,McDonald's,Fast Food,7.25,USD,Declined,Dallas, USA
+TXN000058,4111****9876,2025-06-03 11:35:30,Apple Store,Electronics,280.00,USD,Approved,San Francisco, USA
+TXN000059,4111****1234,2025-06-03 12:05:50,Best Buy,Electronics,90.00,USD,Approved,New York, USA
+TXN000060,5500****5678,2025-06-03 12:35:20,Whole Foods,Grocery,45.00,USD,Approved,Dallas, USA
+TXN000061,4111****9876,2025-06-03 13:05:15,Netflix,Entertainment,15.99,USD,Approved,San Francisco, USA
+TXN000062,4111****1234,2025-06-03 13:35:40,Target,Retail,62.00,USD,Approved,New York, USA
+TXN000063,5500****5678,2025-06-03 14:05:55,Shell,Gas Station,40.50,USD,Approved,Dallas, USA
+TXN000064,4111****9876,2025-06-03 14:35:20,Subway,Fast Food,8.10,USD,Approved,San Francisco, USA
+TXN000065,4111****1234,2025-06-03 15:05:30,Spotify,Entertainment,9.99,USD,Approved,New York, USA
+TXN000066,5500****5678,2025-06-03 15:35:10,Starbucks,Coffee Shops,5.00,USD,Approved,Dallas, USA
+TXN000067,4111****9876,2025-06-03 16:05:40,Walmart,Retail,28.00,USD,Approved,San Francisco, USA
+TXN000068,4111****1234,2025-06-03 16:35:15,Amazon,Online Retail,125.50,USD,Approved,New York, USA
+TXN000069,5500****5678,2025-06-03 17:05:55,Uber,Transportation,15.25,USD,Approved,Dallas, USA
+TXN000070,4111****9876,2025-06-03 17:35:30,McDonald's,Fast Food,7.80,USD,Declined,San Francisco, USA
+TXN000071,4111****1234,2025-06-03 18:05:20,Apple Store,Electronics,300.00,USD,Approved,New York, USA
+TXN000072,5500****5678,2025-06-03 18:35:10,Best Buy,Electronics,95.00,USD,Approved,Dallas, USA
+TXN000073,4111****9876,2025-06-03 19:05:55,Whole Foods,Grocery,50.00,USD,Approved,San Francisco, USA
+TXN000074,4111****1234,2025-06-03 19:35:25,Netflix,Entertainment,15.99,USD,Approved,New York, USA
+TXN000075,5500****5678,2025-06-03 20:05:45,Target,Retail,60.50,USD,Approved,Dallas, USA
+TXN000076,4111****9876,2025-06-03 20:35:10,Shell,Gas Station,41.00,USD,Approved,San Francisco, USA
+TXN000077,4111****1234,2025-06-03 21:05:40,Subway,Fast Food,8.00,USD,Approved,New York, USA
+TXN000078,5500****5678,2025-06-03 21:35:15,Spotify,Entertainment,9.99,USD,Approved,Dallas, USA
+TXN000079,4111****9876,2025-06-03 22:05:50,Starbucks,Coffee Shops,4.80,USD,Approved,San Francisco, USA
+TXN000080,4111****1234,2025-06-04 09:10:20,Walmart,Retail,26.00,USD,Approved,New York, USA
+TXN000081,5500****5678,2025-06-04 09:40:45,Amazon,Online Retail,115.00,USD,Approved,Dallas, USA
+TXN000082,4111****9876,2025-06-04 10:10:30,Uber,Transportation,14.00,USD,Approved,San Francisco, USA
+TXN000083,4111****1234,2025-06-04 10:40:05,McDonald's,Fast Food,7.00,USD,Declined,New York, USA
+TXN000084,5500****5678,2025-06-04 11:10:15,Apple Store,Electronics,275.00,USD,Approved,Dallas, USA
+TXN000085,4111****9876,2025-06-04 11:40:50,Best Buy,Electronics,88.00,USD,Approved,San Francisco, USA
+TXN000086,4111****1234,2025-06-04 12:10:20,Whole Foods,Grocery,44.00,USD,Approved,New York, USA
+TXN000087,5500****5678,2025-06-04 12:40:10,Netflix,Entertainment,15.99,USD,Approved,Dallas, USA
+TXN000088,4111****9876,2025-06-04 13:10:45,Target,Retail,57.00,USD,Approved,San Francisco, USA
+TXN000089,4111****1234,2025-06-04 13:40:30,Shell,Gas Station,39.50,USD,Approved,New York, USA
+TXN000090,5500****5678,2025-06-04 14:10:20,Subway,Fast Food,7.70,USD,Approved,Dallas, USA
+TXN000091,4111****9876,2025-06-04 14:40:15,Spotify,Entertainment,9.99,USD,Approved,San Francisco, USA
+TXN000092,4111****1234,2025-06-04 15:10:50,Starbucks,Coffee Shops,5.20,USD,Approved,New York, USA
+TXN000093,5500****5678,2025-06-04 15:40:10,Walmart,Retail,29.00,USD,Approved,Dallas, USA
+TXN000094,4111****9876,2025-06-04 16:10:45,Amazon,Online Retail,123.50,USD,Approved,San Francisco, USA
+TXN000095,4111****1234,2025-06-04 16:40:20,Uber,Transportation,16.00,USD,Approved,New York, USA
+TXN000096,5500****5678,2025-06-04 17:10:05,McDonald's,Fast Food,8.00,USD,Declined,Dallas, USA
+TXN000097,4111****9876,2025-06-04 17:40:35,Apple Store,Electronics,310.00,USD,Approved,San Francisco, USA
+TXN000098,4111****1234,2025-06-04 18:10:10,Best Buy,Electronics,93.00,USD,Approved,New York, USA
+TXN000099,5500****5678,2025-06-04 18:40:45,Whole Foods,Grocery,46.50,USD,Approved,Dallas, USA
+TXN000100,4111****9876,2025-06-04 19:10:15,Netflix,Entertainment,15.99,USD,Approved,San Francisco, USA
